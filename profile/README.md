@@ -7,8 +7,6 @@
 
 <br/>
 
-> **서비스 바로가기**: https://sembot.co.kr
-
 <div align="center">
   <img src="./assets/Main.png" alt="Main" style="border-radius: 10px;"/>
 </div>
